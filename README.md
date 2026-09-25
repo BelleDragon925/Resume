@@ -1,6 +1,6 @@
 My Resumes
 
-[B resume.pdf](https://github.com/user-attachments/files/29848344/B.resume.pdf)
+[B resume.pdf] file:///C:/Users/katkn/OneDrive/Desktop/b%20it%20resume.pdf
 
 [B Customer Services.pdf](https://github.com/user-attachments/files/29848355/B.Customer.Services.pdf)
 
